@@ -1,0 +1,44 @@
+baseurl = "https://942kid.github.io/"
+title = "Collection of Sand"
+author = "Forest Wussten"
+relativeurls = true
+canonifyurls = true
+languagecode = "en"
+paginate = 3
+theme = "hugo-renga"
+
+enableEmoji = true
+hasCJKLanguage = true
+
+googleAnalytics = "UA-98330599-1"
+disqusShortname = "942kid"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+pagetitle = "Collection of Sand"
+copyright = "© 2019 Forest Wussten"
+copyrightUrl = "https://942kid.github.io/"
+faviconfile = "image/avatarsmall.png"
+logofile = "image/avatar.png"
+posts_navigation = true
+uselatex = true
+highlightjs = true
+progressively = false
+
+github = "942kid"
+twitter = "942kid"
+linkedin = "fannwu"
+email = "942kid@gmail.com"
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.primary]]
+identifier = "blog"
+name = "SO"
+url = "/blog/"
+weight = 2

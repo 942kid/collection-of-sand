@@ -1,5 +1,5 @@
 ---
-title: "Strong Opinions"
+title: "Strong Opinions or Space Odyssey"
 menu: "main"
-description: "Forest Wussten's strong opinions."
+description: "Forest Wussten's English Blogs."
 ---

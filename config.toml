@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
 pagetitle = "Collection of Sand"
-copyright = "© 2019 Forest Wussten"
+copyright = "© 2020 Forest Wussten"
 copyrightUrl = "https://942kid.netlify.com/"
 faviconfile = "image/avatarsmall.png"
 logofile = "image/avatar.png"
